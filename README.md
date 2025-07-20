@@ -6,10 +6,10 @@ This repository contains a Bash script to automate the installation and configur
 
 
 ## Prerequisites
-Git: Ensure Git is installed on your system.
-Sudo Privileges: The script requires administrative access.
-Operating System: Tested on Debian ( Kali Linux ), you can try on another at your own risk and knowledge.
-Dependencies: The script also installs all dependencies for openpuff
+- **Git**: Ensure Git is installed on your system.
+- **Sudo Privileges**: The script requires administrative access.
+- **Operating System**: Tested on Debian ( Kali Linux ), you can try on another at your own risk and knowledge.
+- **Dependencies**: The script also installs all dependencies for openpuff
 
 
 ## Installation
