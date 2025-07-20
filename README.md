@@ -1,5 +1,5 @@
 # OpenPuff Auto Install Script
-![OpenPuff Auto Installer Script banner](openpuff-auto-installer-script-banner.png)
+![openpuff-auto-installer-script-banner.png](https://github.com/sudo-hope0529/sudo-hope0529.github.io/blob/00cbec90bf912e91845800feb40c8c72bb228577/pages/project-docs/asset/openpuff-auto-installer-script-banner.png)
 
 ## Overview
 This repository contains a Bash script to automate the installation and configuration of OpenPuff (a steganography tool) with Wine 32-bit installation and its configuration.
