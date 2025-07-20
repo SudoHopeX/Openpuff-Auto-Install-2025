@@ -46,7 +46,7 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 
 
 ## License
-Licenced Under MIT Licence, Read [LICENCE](LICENCE).
+Licenced Under MIT Licence, Read [LICENCE](LICENSE).
 
 ## Sudo-Hope0529
 [Read Documentation](https://sudo-hope0529.github.io/pages/comingsoon.html)
