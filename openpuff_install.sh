@@ -37,7 +37,7 @@ if [ -f "install_wine_4_openpuff.sh" ]; then
     echo "[*]Wine Installation & Config Script file exists. Running it..."
     sudo bash install_wine_4_openpuff.sh
 else
-    echo "[!] Wine Installation & Config Script file does not exist. Cloning from GitHub repository..>
+    echo "[!] Wine Installation & Config Script file does not exist. Cloning from GitHub repository..>"
     git clone https://github.com/sudo-hope0529/Openpuff-Auto-Install-2025.git
     if [ $? -eq 0 ]; then  # Check if git clone succeeded
         cd Openpuff-Auto-Install-2025
