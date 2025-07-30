@@ -1,4 +1,4 @@
-# OpenPuff Auto Install Script
+# OpenPuffi > OpenPuff Installer Script
 ![openpuff-auto-installer-script-banner.png](https://github.com/sudohopex/sudohopex.github.io/blob/00cbec90bf912e91845800feb40c8c72bb228577/pages/project-docs/asset/openpuff-auto-installer-script-banner.png)
 
 ## Overview
