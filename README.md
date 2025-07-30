@@ -17,12 +17,12 @@ Follow these steps to install and configure OpenPuff:
 
 #### Clone the repository:
 ```
-git clone https://github.com/sudohopex/Openpuff-Auto-Install-2025.git
+git clone https://github.com/sudohopex/Openpuffi.git
 ```
 
 #### Change to the project directory:
 ```
-cd Openpuff-Auto-Install-2025
+cd Openpuffi
 ```
 
 Run the installation script with elevated privileges:
